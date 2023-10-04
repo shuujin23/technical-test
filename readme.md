@@ -80,7 +80,8 @@ Buat API Services, menggunakan C# dengan asp.net core framework. Dengan fungsi-f
   5. Update password user
   6. Delete user
   7. Get list user dengan filter email
-
+<br>
+Gunakan EF core untuk ORM nya, coba buat projectnya menggunakan prinsip SOLID dan clean code semaksimal mungkin
 <br>
 <br>
 Kumpulkan hasilnya dalam bentuk <b>compressed file</b>, boleh dipisah per nomor atau boleh digabung. Khusus untuk soal project, silakan <b>upload ke git Anda</b>, kemudian <b>kirimkan link projectnya saja</b>, jangan lupa permissionnya di setting ke public agar kami bisa clone. Semua file tersebut dikirimkan ke email <b>dev@anargya.co.id</b> maksimal <b>H+2 pukul 23.59 WIB sejak submission ini dikirim</b>. Jika ada pertanyaan silakan di posting di bagian issue. Terima kasih
