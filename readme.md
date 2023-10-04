@@ -80,7 +80,7 @@ Buat API Services, menggunakan C# dengan asp.net core framework. Dengan fungsi-f
   5. Update password user
   6. Delete user
   7. Get list user dengan filter email
-<br>
+
 Gunakan EF core untuk ORM nya, coba buat projectnya menggunakan prinsip SOLID dan clean code semaksimal mungkin
 <br>
 <br>
