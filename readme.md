@@ -72,7 +72,7 @@
    Dari **class Animal** tersebut, buat sebuah class bernama **Cat** yang mewariskan sifat dari **class Animal**. Kemudian print/tampilkan function **walk** dengan cara membuat instance dari class **Cat** tanpa membuat ulang **function walk di class Cat**.
 
 ## Project Test ##
-Buat API Services, menggunakan C# dengan asp.net core framework. Dengan fungsi-fungsi:
+Buat API Services, menggunakan bahasa pemrograman yang Anda kuasai. Dengan fungsi-fungsi:
   1. Login
   2. Logout
   3. Create user
@@ -81,7 +81,7 @@ Buat API Services, menggunakan C# dengan asp.net core framework. Dengan fungsi-f
   6. Delete user
   7. Get list user dengan filter email
 
-Gunakan EF core untuk ORM nya, coba buat projectnya menggunakan prinsip SOLID dan clean code semaksimal mungkin
+Coba buat projectnya menggunakan prinsip SOLID dan clean code semaksimal mungkin
 <br>
 <br>
-Kumpulkan hasilnya dalam bentuk <b>compressed file</b>, boleh dipisah per nomor atau boleh digabung. Khusus untuk soal project, silakan <b>upload ke git Anda</b>, kemudian <b>kirimkan link projectnya saja</b>, jangan lupa permissionnya di setting ke public agar kami bisa clone. Semua file tersebut dikirimkan ke email <b>dev@anargya.co.id</b> maksimal <b> pukul 23.59 WIB sejak submission ini dikirim</b>. Jika ada pertanyaan silakan di posting di bagian issue. Terima kasih
+Kumpulkan hasilnya dalam bentuk <b>compressed file</b>, boleh dipisah per nomor atau boleh digabung. Khusus untuk soal project, silakan <b>upload ke git Anda</b>, kemudian <b>kirimkan link projectnya saja</b>, jangan lupa permissionnya di setting ke public agar kami bisa clone. Semua file tersebut dikirimkan ke email <b>apps@anargya.id</b> maksimal <b> pukul 23.59 WIB sejak submission ini dikirim</b>. Jika ada pertanyaan silakan di posting di bagian issue. Terima kasih
